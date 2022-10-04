@@ -32,3 +32,4 @@ THEN the password is either displayed in an alert or written to the page
 
 https://hlampton.github.io/PWORD_GEN1/
 
+https://github.com/hlampton/PWORD_GEN1
